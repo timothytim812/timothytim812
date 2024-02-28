@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timothytim812 , I am a freelance front end developer
+- 👋 Hi, I’m Timothy George Benjamindas, I am a freelance front end developer
 - 👀 I’m interested in knowing more about coding and website development
 - 🌱 I’m currently improving my coding skills to proficient level
 - 💞️ I’m looking to collaborate on a website development
