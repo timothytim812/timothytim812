@@ -12,6 +12,7 @@
 - ⚡Fact about me **I work all day on my projects and literally forget everything around me**
 
 <h3 align="left">Connect with me:</h3>
+<br clear="both">
 
 <p align="left">
 <a href="https://linkedin.com/in/timothy812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timothy812" height="30" width="40" /></a>
@@ -23,6 +24,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+<br clear="both">
 
 <div align="center" >
   
@@ -31,6 +33,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timothytim812&show_icons=true&locale=en&layout=compact" alt="timothytim812" /></p>
@@ -43,3 +46,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=timothytim812&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
