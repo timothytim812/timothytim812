@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **timothygeorgebenjmaindas@gmail.com**
 
-- ⚡ Fun fact **I work all day on my projects and literally forget everything around me**
+- ⚡Fact about me **I work all day on my projects and literally forget everything around me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
