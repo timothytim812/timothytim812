@@ -3,9 +3,11 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+- 🔭 I’m currently looking for **Front end Developer Role**
+
 - 🌱 I’m currently learning **ReactJs, NextJs**
 
-- 💬 Ask me about **Javascript, CSS, Figma**
+- 💬 Ask me about **Javascript, CSS so that I can help and learn as well**
 
 - 📫 How to reach me **timothygeorgebenjmaindas@gmail.com**
 
