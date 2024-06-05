@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, CSS so that I can help and learn as well**
 
-- 📫 How to reach me **timothygeorgebenjmaindas@gmail.com**
+- 📫 How to reach me **timothygeorgebenjamindas@gmail.com**
 
 - ⚡Fact about me **I work all day on my projects and literally forget everything around me**
 
