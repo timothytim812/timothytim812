@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Astrojs**
 
-- 🤝 I’m looking for help with **Nextjs and Reactjs projects and also open sources projects**
+- 🤝 I’m willing to help with **Nextjs and Reactjs projects and also open sources projects**
 
 - 💬 Ask me about **react, nextjs, framer-motion, typescript , taiwlindcss and css generally.**
 
