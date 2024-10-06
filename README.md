@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Timothy Benjamin</h1>
-<h3 align="center">A dedicated frontend developer from India</h3>
+<h3 align="center">A dedicated frontend developer | full-stack developer from India</h3>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 - 🔭 I’m currently working on **SAAS projects for hospitals and CMS for my clients.**
 
-- 🌱 I’m currently learning **Astrojs**
+- 🌱 I’m currently learning **Astrojs, Remixjs**
 
 - 🤝 I’m willing to help with **Nextjs and Reactjs projects and also open sources projects**
 
-- 💬 Ask me about **react, nextjs, framer-motion, typescript , taiwlindcss and css generally.**
+- 💬 Ask me about **react, nextjs, framer-motion, typescript , taiwlindcss and CSS.**
 
 - 📫 How to reach me **timothygeorgebenjamindas@gmail.com**
 
