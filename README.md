@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **SAAS projects for hospitals and CMS for my clients.**
 
-- 🌱 I’m currently learning **Astrojs, Remixjs**
+- 🌱 I’m currently learning ** Nestjs, Remixjs**
 
 - 🤝 I’m willing to help with **Nextjs and Reactjs projects and also open sources projects**
 
 - 💬 Ask me about **react, nextjs, framer-motion, typescript , taiwlindcss and CSS.**
 
-- 📫 How to reach me **timothygeorgebenjamindas@gmail.com**
+- 📫 How to reach me **timothygbd@gmail.com**
 
 - ⚡ My tech Stack **Nextjs , Typescript , Framer-motion , Tailwindcss , Prisma (or) Drizzle and databases(according to clients requirements)**
 
